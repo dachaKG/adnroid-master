@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">My Application MobileHub</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_target_id">Add target id</string>
+    <string name="add_target">Add target</string>
+    <string name="add_target_button">Add target</string>
+    <string name="submit">Submit</string>
+    <string name="app_target_list">Assessment Targets</string>
+    <string name="app_template_list">Assessment Templates</string>
+    <string name="app_run_list">Assessment Runs</string>
+    <string name="app_findings_list">Findings</string>
+    <string name="homepage">Amazon Inspector</string>
+    <!--<string name="msg_token_fmt">Message token</string>-->
+
+    <string name="quickstart_message">Click the SUBSCRIBE TO WEATHER button below to subscribe to the
+        weather topic. Messages sent to the weather topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_weather">Subscribe To Weather</string>
+    <string name="log_token">Log Token</string>
+
+    <string name="msg_subscribed">Subscribed to weather topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">Weather</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to weather topic</string>
+    <string name="fcm_message">FCM Message</string>
+
+    <!--List Adapters-->
+    <string name="created_at">Created at: </string>
+    <string name="updated_at">Updated at:</string>
+    <string name="adapter_name">Name: </string>
+    <string name="adapter_arn">Arn: </string>
+    <string name="target_name">Target name: </string>
+    <string name="template_name">Template name: </string>
+    <string name="duration">Duration: </string>
+    <string name="run_count">Run count: </string>
+    <string name="start_time">Start time: </string>
+    <string name="status">Status: </string>
+    <string name="findings_count">Findings count: </string>
+    <string name="completed_at">Completed at: </string>
+    <string name="severity">Severity: </string>
+    <string name="finding">Finding: </string>
+    <string name="title">Finding: </string>
+    <string name="description">Description</string>
+    <string name="recommendation">Recommendation</string>
+    <string name="starter_metrics">Items count</string>
+    <string name="starter_targets">Assessment targets:</string>
+    <string name="starter_templates">Assessment templates:</string>
+    <string name="starter_runs">Assessment runs:</string>
+    <string name="starter_findings">Findings:</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

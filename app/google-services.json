@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46485600079",
+    "firebase_url": "https://inspector-47d3d.firebaseio.com",
+    "project_id": "inspector-47d3d",
+    "storage_bucket": "inspector-47d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46485600079:android:73b82834b62a0fe1",
+        "android_client_info": {
+          "package_name": "com.example.danilo.myapplicationmobilehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46485600079-kfthqie27l3cc6j14iu3nccrpls5nt80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danilo.myapplicationmobilehub",
+            "certificate_hash": "1207b77f31d45e35ff958a929a5e94c515a47a2f"
+          }
+        },
+        {
+          "client_id": "46485600079-jtd3iobgm8h5mp219hc15dpev6besr5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR8Vq0g2LfBAfmbx-cRI6LVJDRIJjmxJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46485600079-jtd3iobgm8h5mp219hc15dpev6besr5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
